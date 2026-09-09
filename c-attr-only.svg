@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="470" viewBox="0 0 860 470" onload="var t=document.createElementNS('http://www.w3.org/2000/svg','text');t.setAttribute('x','24');t.setAttribute('y','200');t.setAttribute('font-size','26');t.setAttribute('font-family','Menlo,monospace');t.setAttribute('font-weight','bold');t.appendChild(document.createTextNode('EXECUTING ON '+document.domain));document.documentElement.appendChild(t);var u=document.createElementNS('http://www.w3.org/2000/svg','text');u.setAttribute('x','24');u.setAttribute('y','246');u.setAttribute('font-size','20');u.setAttribute('font-family','Menlo,monospace');u.appendChild(document.createTextNode(window.origin));document.documentElement.appendChild(u)">
+  <rect width="860" height="470" fill="#ffffff"/>
+  <rect x="0" y="0" width="860" height="62" fill="#b00020"/>
+  <text x="24" y="40" font-family="Menlo,monospace" font-size="24" font-weight="bold" fill="#ffffff">ATTRIBUTE ONLY PAYLOAD, NO SCRIPT ELEMENT</text>
+  <text x="24" y="120" font-family="Menlo,monospace" font-size="15" fill="#555555">The two lines below were written by an onload attribute.</text>
+  <rect x="1" y="1" width="858" height="468" fill="none" stroke="#cccccc"/>
+</svg>
