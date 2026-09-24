@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="600" viewBox="0 0 800 600">
+<rect x="0" y="0" width="800" height="600" fill="#ffffff"/>
+<image x="10" y="10" width="60" height="60" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAIAAAC1nk4lAAAAIUlEQVR42u3BgQAAAADDoPlTX+AIVQEAAAAAAAAAAADANypsAAHg9dRTAAAAAElFTkSuQmCC"/>
+<text x="80" y="50" font-family="Helvetica" font-size="24" fill="#000">CTL-r4a1790256307</text>
+<image x="10" y="90"  width="200" height="60" xlink:href="https://raw.githubusercontent.com/Bajinder17/svg-render-assets/main/probe/m1-red.png"/>
+<image x="10" y="160" width="200" height="60" href="https://raw.githubusercontent.com/Bajinder17/svg-render-assets/main/probe/m2-lime.png"/>
+<use x="10" y="230" xlink:href="https://raw.githubusercontent.com/Bajinder17/svg-render-assets/main/probe/m3-blue.svg#g"/>
+<filter id="f4" x="0" y="0" width="200" height="60"><feImage xlink:href="https://raw.githubusercontent.com/Bajinder17/svg-render-assets/main/probe/m4-yellow.png"/></filter><rect x="10" y="300" width="200" height="60" filter="url(#f4)" fill="none"/>
+<style>@import url("https://raw.githubusercontent.com/Bajinder17/svg-render-assets/main/probe/m5.css");</style><rect class="imp" x="10" y="370" width="200" height="60" fill="#ffffff"/>
+<foreignObject x="10" y="440" width="200" height="60"><img xmlns="http://www.w3.org/1999/xhtml" src="https://raw.githubusercontent.com/Bajinder17/svg-render-assets/main/probe/m6-orange.png" width="200" height="60"/></foreignObject>
+<image x="10" y="510" width="200" height="60" xlink:href="https://raw.githubusercontent.com/Bajinder17/svg-render-assets/main/probe/m7-purple.svg"/>
+<defs><pattern id="p8" patternUnits="userSpaceOnUse" width="200" height="60"><image width="200" height="60" xlink:href="https://raw.githubusercontent.com/Bajinder17/svg-render-assets/main/probe/m8-teal.png"/></pattern></defs><rect x="260" y="90" width="200" height="60" fill="url(#p8)"/>
+</svg>

